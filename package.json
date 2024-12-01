@@ -13,5 +13,6 @@
 	},
 "author":"Mladenka Orlic",
 "description": "useless but meaningful to idiots",
-"keywords":["freecodecamp","backend","salary"]
+"keywords":["freecodecamp","backend","salary"],
+"licence":"MIT"
 }
