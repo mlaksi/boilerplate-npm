@@ -12,5 +12,6 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 "author":"Mladenka Orlic",
-"description": "useless but meaningful to idiots"
+"description": "useless but meaningful to idiots",
+"keywords":["freecodecamp","backend","salary"]
 }
